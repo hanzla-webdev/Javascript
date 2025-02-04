@@ -1,9 +1,9 @@
 function a() {
     c()
     function c() {
-        console.log(aa)
+        console.log(a)
     }
 }
 
-var aa = 1;
+var a = 1;
 a();
