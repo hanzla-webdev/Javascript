@@ -8,8 +8,10 @@ function getName() {
     console.log("javascript")
 }
 
+
+console.log(getName)
+
 // var getName = () => {
 //     console.log("js")
 // }
-console.log(getName)
 
